@@ -24,7 +24,7 @@
 
 ### 👯 Hackathons and collaborative work 👯
 
-| [Proud Coders - 3rd place]("https://chronicles-of-pride-9a12d37ba4db.herokuapp.com/") | [Pixel Pioneers - participant]("https://swewi.github.io/Invasion-83-Ht-3/") |
+| [Proud Coders - 3rd place](https://chronicles-of-pride-9a12d37ba4db.herokuapp.com/) | [Pixel Pioneers - participant](https://swewi.github.io/Invasion-83-Ht-3/) |
 | --- | --- |
 
 ---
