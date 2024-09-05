@@ -15,17 +15,25 @@
 
 **_I am committed to continue learning, to this end I have completed a number of short courses that emphasise and enhance my current learning:_**
 
-### Short courses
+### 🎒 Short courses 🎒
 
 | Intro to SQL - Le Wagon | Learn Accessibility - W3 Schools |
 | --- | --- |
 
 **_I also enjoy the hackathons offered by Code Institute, they offer an amazing insight into working as part of a team.  I have joined several since I completed the course:_**
 
-### Hackathons and collaborative work
+### 👯 Hackathons and collaborative work 👯
 
 | Proud Coders - 3rd place | Pixel Pioneers - participant |
 | --- | --- |
+
+---
+
+### 💻 Contact Me 💻
+
+**_Interested in contacting me? Reach out!_**
+
+![LinkedIn]("https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")
 <!---
 Swewi/Swewi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
