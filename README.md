@@ -31,9 +31,9 @@
 
 ### 💻 Contact Me 💻
 
-**_Interested in contacting me? Reach out!_**
+📭 **_Interested in contacting me? Reach out!_** 📬
 
-![LinkedIn]("https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")
+<a href="www.linkedin.com/in/kireebellamy"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!---
 Swewi/Swewi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
