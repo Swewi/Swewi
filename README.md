@@ -38,7 +38,6 @@
 | --- | --- |
 | | |
 | [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://s.team/p/hrk-bhfk/RVRKTWHN) | How about Steam? |
-| 
 <!---
 Swewi/Swewi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
