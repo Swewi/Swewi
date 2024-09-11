@@ -18,8 +18,8 @@
 
 ### 🎒 Short courses 🎒
 
-| Intro to SQL - Le Wagon | Learn Accessibility - W3 Schools |
-| --- | --- |
+| Intro to SQL - Le Wagon | Learn Accessibility - W3 Schools | Responsive Web Design - freeCodeCamp |
+| --- | --- | --- |
 
 **_I also enjoy the hackathons offered by Code Institute, they offer an amazing insight into working as part of a team.  I have joined several since I completed the course:_**
 
