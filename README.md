@@ -3,8 +3,8 @@
 
 **_I am new to coding, I started in February 2024.  It has been quite an experience so far, long may it continue!!_**
 
-| ![Swewi's Stats](https://github-readme-stats.vercel.app/api?username=Swewi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  | ![Swewi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swewi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) | ![Swewi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swewi&theme=vue-dark&hide_border=false) |
-| --- | --- | --- |
+| ![Swewi's Stats](https://github-readme-stats.vercel.app/api?username=Swewi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  | ![Swewi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swewi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) |
+| --- | --- |
 
 ---
 
@@ -38,8 +38,15 @@
 
 ### 🎒 Short courses 🎒
 
-| Intro to SQL - Le Wagon | Learn Accessibility - W3 Schools | Responsive Web Design - freeCodeCamp | Intro to No-Code - Le Wagon | Git & GitHub - Le Wagon | Responsive Web Design - freeCodeCamp |
+| freeCodeCamp | | | | | |
 | --- | --- | --- | --- | --- | --- |
+|  | Responsive Web Design |  |  |  |  |
+| Le Wagon | | | | | |
+|  | Intro to SQL | Intro to No-Code  | Git & GitHub |  |  |
+| Scrimba | | | | | |
+|  | HTML & CSS Crash Course |  |  |  |  |
+| W3 Schools | | | | | |
+|  | Learn Accessibility |  |  |  |  |
 
 ### 📓 Education 📖
 
