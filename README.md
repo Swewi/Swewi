@@ -25,7 +25,7 @@
 | **Hosting:** | | | | | | |
 |  | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) | ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) |  |  |  |
 | | | | | | | |
-| **Hosting:** | | | | | | |
+| **IDE's and Editors:** | | | | | | |
 |  | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) |  |  |  |  |
 | | | | | | | |
 | **Design Tools:** | | | | | | |
