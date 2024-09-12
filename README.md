@@ -3,14 +3,34 @@
 
 **_I am new to coding, I started in February 2024.  It has been quite an experience so far, long may it continue!!_**
 
+| ![Swewi's Stats](https://github-readme-stats.vercel.app/api?username=Swewi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  | ![Swewi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swewi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) | ![Swewi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swewi&theme=vue-dark&hide_border=false) |
+| --- | --- | --- |
+
+---
+
 ## My current skill set:
 
 💾 Languages and Tools 💾
 
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) |
-| --- | --- | --- | --- | --- | --- |
-| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
-| ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) | ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) | | | | |
+| **Languages:** | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |  |  |
+| | | | | | | |
+| **Frameworks:** | | | | | | |
+|  | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |  |  |  |
+| | | | | | | |
+| **Databases:** | | | | | | |
+|  | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |  |  |  |
+| | | | | | | |
+| **Hosting:** | | | | | | |
+|  | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) | ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) |  |  |  |
+| | | | | | | |
+| **Hosting:** | | | | | | |
+|  | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) |  |  |  |  |
+| | | | | | | |
+| **Design Tools:** | | | | | | |
+|  | ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) |  |  |  |  |  |
+| | | | | | | |
 
 ---
 
@@ -18,8 +38,13 @@
 
 ### 🎒 Short courses 🎒
 
-| Intro to SQL - Le Wagon | Learn Accessibility - W3 Schools | Responsive Web Design - freeCodeCamp |
-| --- | --- | --- |
+| Intro to SQL - Le Wagon | Learn Accessibility - W3 Schools | Responsive Web Design - freeCodeCamp | Intro to No-Code - Le Wagon | Git & GitHub - Le Wagon | Responsive Web Design - freeCodeCamp |
+| --- | --- | --- | --- | --- | --- |
+
+### 📓 Education 📖
+
+| ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) | ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white) | Le Wagon | Code Institute | W3 Schools |
+| --- | --- | --- | --- | --- |
 
 **_I also enjoy the hackathons offered by Code Institute, they offer an amazing insight into working as part of a team.  I have joined several since I completed the course:_**
 
