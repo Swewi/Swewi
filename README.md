@@ -30,7 +30,6 @@
 | | | | | | | |
 | **Design Tools:** | | | | | | |
 |  | ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) |  |  |  |  |  |
-| | | | | | | |
 
 ---
 
@@ -42,7 +41,7 @@
 | --- | --- | --- | --- | --- | --- |
 |  | Responsive Web Design |  |  |  |  |
 | Le Wagon | | | | | |
-|  | Intro to SQL | Intro to No-Code  | Git & GitHub |  |  |
+|  | Intro to SQL | Intro to No-Code  | Intro to Git & GitHub | Intro to Docker |  |
 | Scrimba | | | | | |
 |  | HTML & CSS Crash Course |  |  |  |  |
 | W3 Schools | | | | | |
