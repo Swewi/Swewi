@@ -26,7 +26,7 @@
 |  | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) | ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) |  |  |  |
 | | | | | | | |
 | **IDE's and Editors:** | | | | | | |
-|  | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) |  |  |  |  |
+|  | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) | ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) |  |  |  |
 | | | | | | | |
 | **Design Tools:** | | | | | | |
 |  | ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) |  |  |  |  |  |
@@ -56,8 +56,8 @@
 
 ### 👯 Hackathons and collaborative work 👯
 
-| [Proud Coders - 3rd place](https://chronicles-of-pride-9a12d37ba4db.herokuapp.com/) | [Pixel Pioneers - participant](https://swewi.github.io/Invasion-83-Ht-3/) |
-| --- | --- |
+| [Proud Coders - 3rd place](https://chronicles-of-pride-9a12d37ba4db.herokuapp.com/) | [Pixel Pioneers - participant](https://swewi.github.io/Invasion-83-Ht-3/) | [Classical Music Month - participant](https://md-ash-dot.github.io/classical-music-hackathon/) |
+| --- | --- | --- |
 
 ---
 
