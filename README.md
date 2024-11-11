@@ -43,7 +43,7 @@
 | Le Wagon | | | | | |
 |  | Intro to SQL | Intro to No-Code  | Intro to Git & GitHub | Intro to Docker |  |
 | Scrimba | | | | | |
-|  | HTML & CSS Crash Course |  |  |  |  |
+|  | HTML & CSS Crash Course | Learn Bulma CSS | Learn CSS Variables |  |  |
 | W3 Schools | | | | | |
 |  | Learn Accessibility |  |  |  |  |
 
